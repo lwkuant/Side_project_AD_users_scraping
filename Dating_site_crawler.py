@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-AD crawler
+This is the crawler
 """
 
 ### data until 2017/5/14
@@ -19,7 +19,7 @@ import shutil
 ### change the current directory
 import os
 print(os.getcwd())
-os.chdir(r'D:\Dataset\AD_scraped')
+os.chdir(r'D:\Dataset\Dating_site_scraping_data')
 print(os.getcwd())
 
 ### login setting
